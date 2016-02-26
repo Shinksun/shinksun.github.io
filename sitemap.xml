@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shinksun.github.io/about/index.html</loc>
+    
+    <lastmod>2016-02-26T00:53:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://shinksun.github.io/2016/02/24/%E7%AC%BC%E4%B8%AD%E9%B8%9F/</loc>
     
     <lastmod>2016-02-25T09:47:59.000Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>http://shinksun.github.io/2016/02/25/%E6%96%AD%E5%8F%91/</loc>
     
     <lastmod>2016-02-25T09:41:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shinksun.github.io/about/index.html</loc>
-    
-    <lastmod>2016-02-25T09:05:36.000Z</lastmod>
     
   </url>
   
